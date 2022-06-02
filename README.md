@@ -4,7 +4,7 @@ Includes my 1dcnn_method (0.787) and lgb_method (0.829).
 
 
 ## Re-implement inference performance 
-To get the best score of my implementation: 0.829, please open the lgb_method/my_lgb_testing and add the following dataset then re-run.
+To get the best score of my implementation: **0.829**, please import the `my_lgb_testing.ipynb` to Kaggle Notebook and add the following dataset then re-run.
 - https://www.kaggle.com/datasets/axotcc/lgb-new-train
 - https://www.kaggle.com/datasets/axotcc/lgbgetall1all008
 - https://www.kaggle.com/datasets/axotcc/lgbmnestimators1600
