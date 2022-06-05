@@ -47,7 +47,7 @@ Includes my 1dcnn_method (0.787) and lgb_method (0.829).
 
 ### My-1DCNN 0.787
 #### Training
-1. run `prepare-idcnn-training-data.ipynb` get training_data
+1. run `prepare-1dcnn-training-data.ipynb` get training_data
 2. add training_data above and run `my-1dcnn-training.ipynb` get models
 
 #### Inference
